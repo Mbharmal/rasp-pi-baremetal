@@ -12,7 +12,6 @@ void main()
         uart_putc('e');
         uart_putc('l');
         uart_putc('l');
-        uart_putc('l');
         uart_putc('o');
         uart_putc(' ');
         uart_putc('W');
